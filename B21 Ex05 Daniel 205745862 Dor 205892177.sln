@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B21_Ex05_01", "B21_Ex05_01\B21_Ex05_01.csproj", "{DEAF1778-0F7E-4AD9-91DB-954628C9EC71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{890AB668-F5DD-48EE-93EF-94FA57009DE8}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\דניאל\לימודים\שנה ב'\סמסטר ב'\C#\תיקיית הגשה תרגיל 5\README.txt = ..\..\..\..\..\דניאל\לימודים\שנה ב'\סמסטר ב'\C#\תיקיית הגשה תרגיל 5\README.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEAF1778-0F7E-4AD9-91DB-954628C9EC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEAF1778-0F7E-4AD9-91DB-954628C9EC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEAF1778-0F7E-4AD9-91DB-954628C9EC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEAF1778-0F7E-4AD9-91DB-954628C9EC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720CE62B-DE2C-43C9-8FB7-E04C8DB32679}
+	EndGlobalSection
+EndGlobal
